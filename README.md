@@ -12,6 +12,7 @@ Tools And Technologies: Unity (any product)
 
 Credits: 
 Ryojun - Game designer , Programmer , Sound Designer
+
 Pee - Game designer , Arts and UI designer
 
 GGJ LINK : https://globalgamejam.org/2020/games/parichan-5
