@@ -3,9 +3,13 @@ Mini game concept about attack Pm 2.5 and virus in air. Jumping loop game make b
 This project for show in Global Game Jam 2020.
 
 Jam Site: Chiang Mai University
+
 Jam Year: 2020
+
 Platforms: MS Windows
+
 Tools And Technologies: Unity (any product)
+
 Credits: 
 Ryojun - Game designer , Programmer , Sound Designer
 Pee - Game designer , Arts and UI designer
