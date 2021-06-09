@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: e6b667a9c9af40b4e87edb86c0d6d7b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayScene: {instanceID: 0}
+  - OverScene: {instanceID: 0}
+  - MainChar: {instanceID: 0}
+  - CoinSound: {instanceID: 0}
+  - PointHide: {instanceID: 0}
+  - Fire: {instanceID: 0}
+  - CharCol: {instanceID: 0}
+  - gun: {instanceID: 0}
+  - IceProtect: {fileID: 21300000, guid: 516533f4cdea5e6468e590ca659805b6, type: 3}
+  - BacktoChar: {instanceID: 0}
+  - MainCharSprit: {instanceID: 0}
+  - debugText: {instanceID: 0}
+  - debugText2: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - Test1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
